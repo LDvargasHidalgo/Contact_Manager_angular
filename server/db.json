@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "abe",
+      "name": "Santiag",
+      "company": "Crafman",
+      "email": "Dani@gmial.com",
+      "title": "SantiSanti",
+      "mobile": "14589632",
+      "photo": "https://img.freepik.com/vector-premium/diseno-avatar-persona_24877-38131.jpg?w=2000",
+      "groupId": "1"
+    },
+    {
+      "name": "Laura Vargas",
+      "mobile": 3186416834,
+      "company": "1074415789",
+      "photo": "https://img.freepik.com/vector-premium/diseno-avatar-persona_24877-38130.jpg?w=2000",
+      "email": "danielet16@hotmail.colm",
+      "title": "youtube",
+      "groupId": "1",
+      "id": "s39-Qf-"
+    },
+    {
+      "name": "Dani",
+      "photo": "https://i.gifer.com/origin/65/65d88d6b4187fb9d50ef309c1a76fb35.gif",
+      "email": "dani@gmail.com",
+      "mobile": 12345,
+      "company": "Reworth",
+      "title": "developer",
+      "groupId": "1",
+      "id": "xupiHFc"
+    },
+    {
+      "name": "Julian",
+      "photo": "https://acegif.com/wp-content/uploads/gifs/monkey-148.gif",
+      "email": "juli@gmail.com",
+      "mobile": 1452663,
+      "company": "MELI",
+      "title": "developer",
+      "groupId": "2",
+      "id": "2iw6sCg"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "friends"
+    },
+    {
+      "id": "3",
+      "name": "parents"
+    }
+  ]
+}
